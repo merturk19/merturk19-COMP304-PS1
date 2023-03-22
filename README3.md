@@ -1,0 +1,1 @@
+#to create randomly generated numbers in array btw 1-1000, use  "shuf -i 1-1000" command and pipe it with "./p3 (number to search for) (number of child processes to divide the array to)". This way, responsible child process will yield where the number was found. 
